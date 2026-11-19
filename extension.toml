@@ -1,0 +1,7 @@
+id = "hsk-pastel-theme"
+name = "HSK Pastel"
+version = "0.1.0"
+schema_version = 1
+authors = ["Allan Caetano"]
+description = "A warm pastel theme with clay, cream and charcoal tones, in dark and light variants."
+repository = "https://github.com/allanco91/hsk-pastel"
